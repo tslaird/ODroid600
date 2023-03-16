@@ -16,8 +16,9 @@ to obtain repeated bacterial growth curve measurements coupled with the fact tha
 | Assorted resistors | 1 kit | 11.99 | https://www.amazon.com/dp/B072BL2VX1 |
 | Jumper wires |  |  |  |
 | Orange LEDs (602-610 nm) | 4 | $6.99 (for 100) |  https://www.amazon.com//dp/B077XD7MVB |
-
 Note: some of the above components are sold in large quantites and can be used to make more than one ODroid600
+Total Cost: $X
+
 
 Tools needed:
 PVC cutter or hacksaw
@@ -46,6 +47,8 @@ Use 1/4 inch drill bit to drill holes on either side.
 ## Comparison with GENESYS 50 spectrophotometer
 
 First a bacterial suspension of *Pseudomonas putida* 1290 made in a plastic cuvette to 1.0 OD using the Genesys 50 spectrophotometer. The bacterial suspension was serially diluted 2-fold a total of 10 times in 50 mL Falcon tubes. A Pyrex 9820 test tube was placed inside each of the ODroid600 holders as well as in the test tube holding attachment for the Genesys 50 spectrophotometer. Then the serially diluted samples were successively dispensed and moved from each sensor to obtain a reading (1 channel in the Genesys 50 spectrophotometer and 4 channels in the ODroid600). Sample absorbance was read successively from the most diluted sample to the least diluted (i.e. the original bacterial suspension). All tubes were left inside their respective holding chambers (tube stalks of the ODroid600 or the test tube holding attachment for the Genesys 50 spectrophotometer) in order to minimize errors or confounding factors that occur from repositioning the test tubes in the different instruments. The only thing that changed in the experiment was the solution inside the test tubes. The analog phototransistor readings from each channel of the Arduino on the ODroid600 were obtained using the serial monitor within the Arduino IDE software. The phototransistor values from the sample dilutions were transformed to optical density using the following formula: -log10(sample_value/blank_value).
+
+![ODroid600 comparisons between channels and with GENESYS 50 spectrophotometer](OD_comparisons.pdf)
 
 
 
