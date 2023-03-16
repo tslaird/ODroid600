@@ -6,15 +6,18 @@ to obtain repeated bacterial growth curve measurements coupled with the fact tha
 
 ## Components
 |Component| Quantity | Price |  Link |
-| --------|---------|--------|-------|
+| --------|----|----|-------|
 | 3/4 inch PVC pipe |
-| 3/4 inch PVC T couplers | 6 | 10.14 | https://www.acehardware.com/departments/plumbing/pipe-fittings/plastic-fittings/43137
-| 3/4 inch PVC elbow couplers | 4 | 3.16 | https://www.acehardware.com/departments/plumbing/pipe-fittings/plastic-fittings/43123
+| 3/4 inch PVC T coupler | 6 | 10.14 | https://www.acehardware.com/departments/plumbing/pipe-fittings/plastic-fittings/43137
+| 3/4 inch PVC elbow coupler | 4 | 3.16 | https://www.acehardware.com/departments/plumbing/pipe-fittings/plastic-fittings/43123 |
+| Flanged bushing | 4 |  |  |
 | Arduino UNO REV3 | 1 | $28.50 | https://www.amazon.com/dp/B008GRTSV6 |
-| Breadboard |
-| assorted resistors | 1 kit | https://www.amazon.com/dp/B072BL2VX1 |
+| Breadboard | 1 | $9.99 | https://www.amazon.com/dp/B07LFD4LT6 |
+| Assorted resistors | 1 kit | 11.99 | https://www.amazon.com/dp/B072BL2VX1 |
+| Jumper wires |  |  |  |
 | Orange LEDs (602-610 nm) | 4 | $6.99 (for 100) |  https://www.amazon.com//dp/B077XD7MVB |
-|
+
+Note: some of the above components are sold in large quantites and can be used to make more than one ODroid600
 
 Tools needed:
 PVC cutter or hacksaw
@@ -27,7 +30,7 @@ Drill with 1/4 inch drill bit
 side pieces: x inches (2 total), x inches (2 total)
 rear piece: x inches
 tube stalk connectors: x inches (2 total), x inches (2 total), x inches (2 total)
-2) Assemble the base according to the diagram below. The pieces should fit snugly together without the need for any glue or adhesive
+2) Assemble the base according to the diagram below. The pieces should fit snugly together without the need for any glue or adhesive.
 
 ## Assembling tube stalks
 1) Cut PVC pipe to 4.75 inches
@@ -35,8 +38,9 @@ tube stalk connectors: x inches (2 total), x inches (2 total), x inches (2 total
 3) Remove the cut stalk from the PVC T and carefully drill the marked holes ensuring as best as possible to have the two holes aligned. If needed, file away excess PVC debris from the drilled holes.
 Use 1/4 inch drill bit to drill holes on either side.
 4) Place the ACE adapters in each of the drilled holes so that the bottom edge aligns with the inner diameter of the PVC pipe
-4) Place the holding stalk within a T of the base
-5) Repeat for the 3 other test-tube holding stalks
+5) Place the holding stalk within a T of the base
+6) Repeat for the 3 other test-tube holding stalks
+7) Ensure that the ACE adapters are at the same height above the T adapter in each holding stalk
 
 
 ## Comparison with GENESYS 50 spectrophotometer
