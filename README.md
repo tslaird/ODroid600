@@ -10,14 +10,15 @@ to obtain repeated bacterial growth curve measurements coupled with the fact tha
 |Component| Quantity | Price |  Link |
 | --------|----|----|-------|
 | 3/4 inch PVC pipe |
-| 3/4 inch PVC T coupler | 6 | 10.14 | https://www.acehardware.com/departments/plumbing/pipe-fittings/plastic-fittings/43137
-| 3/4 inch PVC elbow coupler | 4 | 3.16 | https://www.acehardware.com/departments/plumbing/pipe-fittings/plastic-fittings/43123 |
-| Flanged bushing | 4 |  |  |
+| 3/4 inch PVC T coupler | 6 | $10.14 | https://www.acehardware.com/departments/plumbing/pipe-fittings/plastic-fittings/43137
+| 3/4 inch PVC elbow coupler | 4 | $3.16 | https://www.acehardware.com/departments/plumbing/pipe-fittings/plastic-fittings/43123 |
+| Flanged nylon bushing (Hillman Group #58071 [0.312 O.D.])| 4 | $10.99 (40 pack) | https://www.amazon.com/B00MNDPO26 |
 | Arduino UNO REV3 | 1 | $28.50 | https://www.amazon.com/dp/B008GRTSV6 |
 | Breadboard | 1 | $9.99 | https://www.amazon.com/dp/B07LFD4LT6 |
-| Assorted resistors | 1 kit | 11.99 | https://www.amazon.com/dp/B072BL2VX1 |
+| Assorted resistors | 1 kit | $11.99 | https://www.amazon.com/dp/B072BL2VX1 |
 | Jumper wires |  |  |  |
 | Orange LEDs (602-610 nm) | 4 | $6.99 (for 100) |  https://www.amazon.com//dp/B077XD7MVB |
+
 Note: some of the above components are sold in large quantites and can be used to make more than one ODroid600
 Total Cost: $X
 
