@@ -1,7 +1,9 @@
 # ODroid600
 
 The motivation behind this tool came from the inconvenience of having
-to obtain repeated bacterial growth curve measurements coupled with the fact that the spectrophotometer in my graduate research lab was broken and I needed to make measurements. I happened to realize that Pyrex 9820 glass test tubes () fit well inside schedule 40 PVC piping (). Thus my goal was to use a scaffold of PVC with low-cost electronic components to create an automated spectrophotometer. Additionally, so called "inexpensive" devices that were being marketed were still in the price range of several thousand dollars and thus still inaccessible to low-budget laboratories.
+to obtain repeated bacterial growth curve measurements coupled with the fact that the spectrophotometer in my graduate research lab was broken and I needed to make measurements. I happened to realize that Pyrex 9820 glass test tubes (25 mm outer diameter) fit well inside schedule 40 PVC piping (). Thus my goal was to use a scaffold of PVC with low-cost electronic components to create an automated spectrophotometer. Additionally, so called "inexpensive" devices that were being marketed were still in the price range of several thousand dollars and thus still inaccessible to low-budget laboratories.
+
+
 
 
 ## Components
@@ -48,8 +50,11 @@ Use 1/4 inch drill bit to drill holes on either side.
 
 First a bacterial suspension of *Pseudomonas putida* 1290 made in a plastic cuvette to 1.0 OD using the Genesys 50 spectrophotometer. The bacterial suspension was serially diluted 2-fold a total of 10 times in 50 mL Falcon tubes. A Pyrex 9820 test tube was placed inside each of the ODroid600 holders as well as in the test tube holding attachment for the Genesys 50 spectrophotometer. Then the serially diluted samples were successively dispensed and moved from each sensor to obtain a reading (1 channel in the Genesys 50 spectrophotometer and 4 channels in the ODroid600). Sample absorbance was read successively from the most diluted sample to the least diluted (i.e. the original bacterial suspension). All tubes were left inside their respective holding chambers (tube stalks of the ODroid600 or the test tube holding attachment for the Genesys 50 spectrophotometer) in order to minimize errors or confounding factors that occur from repositioning the test tubes in the different instruments. The only thing that changed in the experiment was the solution inside the test tubes. The analog phototransistor readings from each channel of the Arduino on the ODroid600 were obtained using the serial monitor within the Arduino IDE software. The phototransistor values from the sample dilutions were transformed to optical density using the following formula: -log10(sample_value/blank_value).
 
+
 ![ODroid600 comparisons between channels and with GENESYS 50 spectrophotometer](OD_comparisons.pdf)
 
 
 
-![Image of ODroid600 set up in a shaking incubator](ODroid600.jpg)
+![Image of ODroid600 set up in a shaking incubator](ODroid600_frontview.jpg)
+
+![Aerial view of ODroid600](ODroid600_topview.jpg)
