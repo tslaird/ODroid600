@@ -54,8 +54,12 @@ First a bacterial suspension of *Pseudomonas putida* 1290 made in a plastic cuve
 
 ![ODroid600 comparisons between channels and with GENESYS 50 spectrophotometer](OD_comparisons.png)
 
+**ODroid600 comparisons between channels and with GENESYS 50 spectrophotometer**
 
 
 ![Image of ODroid600 set up in a shaking incubator](ODroid600_frontview.jpg)
+**Image of ODroid600 set up in a shaking incubator**
+
 
 ![Aerial view of ODroid600](ODroid600_topview.jpg)
+**Aerial view of ODroid600**
