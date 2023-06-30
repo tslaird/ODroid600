@@ -7,26 +7,29 @@ to obtain repeated bacterial growth curve measurements coupled with the fact tha
 
 
 ## Components
-|Component| Quantity | Price |  Link |
+|Component| Quantity | Combined Price |  Link |
 | --------|----|----|-------|
-| 3/4 inch PVC pipe |
+| 3/4 inch PVC pipe | 3 | $16.17 | https://www.acehardware.com/departments/plumbing/pipe/plastic-pipe/4361424 |
 | 3/4 inch PVC T coupler | 6 | $10.14 | https://www.acehardware.com/departments/plumbing/pipe-fittings/plastic-fittings/43137
 | 3/4 inch PVC elbow coupler | 4 | $3.16 | https://www.acehardware.com/departments/plumbing/pipe-fittings/plastic-fittings/43123 |
 | Flanged nylon bushing (Hillman Group #58071 [0.312 O.D.])| 4 | $10.99 (40 pack) | https://www.amazon.com/B00MNDPO26 |
 | Arduino UNO REV3 | 1 | $28.50 | https://www.amazon.com/dp/B008GRTSV6 |
 | Breadboard | 1 | $9.99 | https://www.amazon.com/dp/B07LFD4LT6 |
 | Assorted resistors | 1 kit | $11.99 | https://www.amazon.com/dp/B072BL2VX1 |
-| Jumper wires |  |  |  |
+| Jumper wires | $7.99 | 1 pack | https://www.amazon.com/dp/B07GD2BWPY |
 | Orange LEDs (602-610 nm) | 4 | $6.99 (for 100) |  https://www.amazon.com//dp/B077XD7MVB |
+| Used P1000 tip box | 1 | Free |  NA |
 
-Note: some of the above components are sold in large quantites and can be used to make more than one ODroid600
-Total Cost: $X
+Total Cost: $105.92
 
+*Notes:*
+* Some of the above components are sold in large quantites and can be used to make more than one ODroid600.
+* Some of the component prices may vary depending on date accessed.
+* Some costs can be reduced for example by using competitor brands to Arduino.
 
 Tools needed:
 PVC cutter or hacksaw
 Drill with 1/4 inch drill bit
-
 
 
 ## Assembling base
@@ -35,6 +38,9 @@ side pieces: x inches (2 total), x inches (2 total)
 rear piece: x inches
 tube stalk connectors: x inches (2 total), x inches (2 total), x inches (2 total)
 2) Assemble the base according to the diagram below. The pieces should fit snugly together without the need for any glue or adhesive.
+However, once the design is finalized you can glue the PVC frame if desired.
+
+Diagram coming soon!
 
 ## Assembling tube stalks
 1) Cut PVC pipe to 4.75 inches
