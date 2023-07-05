@@ -23,7 +23,7 @@ to obtain repeated bacterial growth curve measurements coupled with the fact tha
 Total Cost: $105.92
 
 *Notes:*
-* Some of the above components are sold in large quantites and can be used to make more than one ODroid600.
+* Some of the above components are sold in large quantities and can be used to make more than one ODroid600.
 * Some of the component prices may vary depending on date accessed.
 * Some costs can be reduced for example by using competitor brands to Arduino.
 
